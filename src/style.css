@@ -3,15 +3,6 @@ body {
   margin: 0;
 }
 
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  list-style: none;
-}
-
 .stars {
   display: flex;
 }
@@ -22,7 +13,6 @@ li {
   margin-right: 4px;
 
   background-image: url(/src/images/Star.svg);
-  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
